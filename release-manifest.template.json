@@ -21,17 +21,6 @@
       "side": "both"
     },
     {
-      "id": "echoaddonapi",
-      "moduleId": "echoaddonapi",
-      "version": "0.1.0",
-      "artifactFamily": "echo-addon",
-      "assetName": "echoaddonapi-0.1.0.echo-addon",
-      "artifactName": "echoaddonapi-0.1.0.echo-addon",
-      "path": "addons/echoaddonapi-0.1.0.echo-addon",
-      "required": true,
-      "side": "both"
-    },
-    {
       "id": "echoassetcore",
       "moduleId": "echoassetcore",
       "version": "1.0.0",
