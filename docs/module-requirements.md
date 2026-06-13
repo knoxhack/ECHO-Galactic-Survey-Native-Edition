@@ -5,6 +5,7 @@ Galactic Survey Native Edition consumes Native `.echo-addon` artifacts.
 Required modules:
 
 - `echocore`
+- `echoaddonapi`
 - `echonetcore`
 - `echoadaptercore`
 - `echoruntimeguard`
