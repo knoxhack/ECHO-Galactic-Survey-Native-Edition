@@ -914,8 +914,8 @@
       ]
     }
   },
-  "artifactSha256": "4a339c20def10cdaf144d0864694d8a4a391d961ec0224a37887796130a95ab4",
-  "artifactSize": 73633773,
+  "artifactSha256": "7f203433a2e7c0b8ceef724fdd80551eb09f50a42b26a61e3cd497a4a3169fe5",
+  "artifactSize": 145002021,
   "runtimeTarget": "echo_native",
   "id": "galactic-survey-native-edition",
   "artifactUrl": "https://github.com/knoxhack/ECHO-Galactic-Survey-Native-Edition/releases/download/galactic-survey-native-0.1.0-alpha/galactic-survey-native-edition-0.1.0.zip",

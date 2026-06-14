@@ -6,12 +6,12 @@
   "channel": "alpha",
   "releasedAt": "2026-06-14T01:26:54.157Z",
   "manifestAsset": "galactic-survey-native-edition-alpha-0.1.0.pack.json",
-  "manifestSha256": "1535765d3a32f0ed7de42b8afa74aa770c6fe664a34713e29ce21c8fc61bd8ad",
-  "manifestSize": 40739,
+  "manifestSha256": "fbf89dbbda414a461260acbe858cd9482a637d8c0e9920e78bee6caad86bdf0f",
+  "manifestSize": 40740,
   "artifactMode": "zip",
   "artifactAsset": "galactic-survey-native-edition-0.1.0.zip",
-  "artifactSha256": "34362978e16adf08e656e5bde51f30bc68caa411bb87afd7bc8158a1aac74581",
-  "artifactSize": 145056800,
+  "artifactSha256": "7f203433a2e7c0b8ceef724fdd80551eb09f50a42b26a61e3cd497a4a3169fe5",
+  "artifactSize": 145002021,
   "moduleRelease": "modules-all-official-modpacks-runtime-fix-20260614",
   "packs": [
     {
@@ -27,14 +27,14 @@
     {
       "name": "galactic-survey-native-edition-alpha-0.1.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "1535765d3a32f0ed7de42b8afa74aa770c6fe664a34713e29ce21c8fc61bd8ad",
-      "size": 40739
+      "sha256": "fbf89dbbda414a461260acbe858cd9482a637d8c0e9920e78bee6caad86bdf0f",
+      "size": 40740
     },
     {
       "name": "galactic-survey-native-edition-0.1.0.zip",
       "role": "pack-artifact",
-      "sha256": "34362978e16adf08e656e5bde51f30bc68caa411bb87afd7bc8158a1aac74581",
-      "size": 145056800
+      "sha256": "7f203433a2e7c0b8ceef724fdd80551eb09f50a42b26a61e3cd497a4a3169fe5",
+      "size": 145002021
     },
     {
       "name": "echoadaptercore-1.0.0.echo-addon",
