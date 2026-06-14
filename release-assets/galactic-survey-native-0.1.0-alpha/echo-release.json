@@ -4,15 +4,15 @@
   "name": "Galactic Survey Native Edition",
   "version": "0.1.0",
   "channel": "alpha",
-  "releasedAt": "2026-06-14T00:31:04.070Z",
+  "releasedAt": "2026-06-14T01:26:54.157Z",
   "manifestAsset": "galactic-survey-native-edition-alpha-0.1.0.pack.json",
-  "manifestSha256": "33476815f9abb2b76eccb920984c672fdbe42f9f2254c04900ba3d6262579d3d",
+  "manifestSha256": "220e9cea56cfa45d31700c3e9a58038c2070b64a7f7e2fb8bff8c644e08362af",
   "manifestSize": 29504,
   "artifactMode": "zip",
   "artifactAsset": "galactic-survey-native-edition-0.1.0.zip",
-  "artifactSha256": "de492bbfed9dccbd715611adfefc4f67852ea9832df6f44306003ebf78ed9ed2",
-  "artifactSize": 5063,
-  "moduleRelease": "modules-all-official-modpacks-install-fix-20260613",
+  "artifactSha256": "4a339c20def10cdaf144d0864694d8a4a391d961ec0224a37887796130a95ab4",
+  "artifactSize": 73633773,
+  "moduleRelease": "modules-all-official-modpacks-runtime-fix-20260614",
   "packs": [
     {
       "pack": "galactic-survey-native-edition",
@@ -27,18 +27,180 @@
     {
       "name": "galactic-survey-native-edition-alpha-0.1.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "33476815f9abb2b76eccb920984c672fdbe42f9f2254c04900ba3d6262579d3d",
-      "size": 29504
+      "sha256": "220e9cea56cfa45d31700c3e9a58038c2070b64a7f7e2fb8bff8c644e08362af",
+      "size": 28314
     },
     {
       "name": "galactic-survey-native-edition-0.1.0.zip",
       "role": "pack-artifact",
-      "sha256": "de492bbfed9dccbd715611adfefc4f67852ea9832df6f44306003ebf78ed9ed2",
-      "size": 5063
+      "sha256": "4a339c20def10cdaf144d0864694d8a4a391d961ec0224a37887796130a95ab4",
+      "size": 73633773
+    },
+    {
+      "name": "echoadaptercore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoadaptercore-1.0.0.echo-addon",
+      "sha256": "82de4cd4df3c38b4a65bb137dc67be945a97a1bf2ea917747c42ade1ecaa090a",
+      "size": 814976
+    },
+    {
+      "name": "echoaddonapi-0.1.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoaddonapi-0.1.0.echo-addon",
+      "sha256": "dccfee02c5f39fe4031bb54295183b06d65ee14c45de34d88104fc37e15398e8",
+      "size": 53416
+    },
+    {
+      "name": "echocontentcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echocontentcore-1.0.0.echo-addon",
+      "sha256": "e2c9d3268fd4cb0474607a357b148822d7b943b9fa120cbce3a86c2795a3df07",
+      "size": 33666
+    },
+    {
+      "name": "echocore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echocore-1.0.0.echo-addon",
+      "sha256": "b852e8b48b793fd08648195ca7653e60099f5b5a278f0744ac33bb256514dcda",
+      "size": 330460
+    },
+    {
+      "name": "echogalacticcore-0.1.0-native-alpha.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echogalacticcore-0.1.0-native-alpha.echo-addon",
+      "sha256": "cd2c0af18c2fd8b89bc4420341d268af1c59829521755f72f70fe8f34beb0790",
+      "size": 10869544
+    },
+    {
+      "name": "echogalacticsurveyprotocol-0.1.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echogalacticsurveyprotocol-0.1.0.echo-addon",
+      "sha256": "909fc59bc4cdc884aab4221eb7382a62cf999dfbd77cd50cb3f08ba4fb33fb15",
+      "size": 113113
+    },
+    {
+      "name": "echoholomap-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoholomap-1.0.0.echo-addon",
+      "sha256": "b0441a3f1b085816516a21224d542f038e372b6a1e16bc487335aba1cadec5c2",
+      "size": 1470814
+    },
+    {
+      "name": "echoindex-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoindex-1.0.0.echo-addon",
+      "sha256": "26ade1c80142a963f53976eb54cfe3412683e6d014a681a2aba7ee53436adb67",
+      "size": 561355
+    },
+    {
+      "name": "echolens-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echolens-1.0.0.echo-addon",
+      "sha256": "c18e8b30686b223835769e8c085a503e8b5e477b42ada6275faf7e34a1ca133c",
+      "size": 206659
+    },
+    {
+      "name": "echologisticsnetwork-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echologisticsnetwork-1.0.0.echo-addon",
+      "sha256": "eec8d421c747e49da8f4a5996933875e0ad0a4106cfe9742b9b5521faa66334d",
+      "size": 3640652
+    },
+    {
+      "name": "echomissioncore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echomissioncore-1.0.0.echo-addon",
+      "sha256": "15218c6680232c744dbe5cc064f216034e19a2c7c9a4f810bbb37c226f60a39b",
+      "size": 102772
+    },
+    {
+      "name": "echonetcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echonetcore-1.0.0.echo-addon",
+      "sha256": "6e357fdda3888c89ff7ab81d63f497e971bb0ec3220a664ff48b61f07f8ac7c6",
+      "size": 64950
+    },
+    {
+      "name": "echoorbitalremnants-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoorbitalremnants-1.0.0.echo-addon",
+      "sha256": "83aaeef09bfc2db6838cb7528d4e5ba75ec5696fb4338474694f0da784de6ace",
+      "size": 14310530
+    },
+    {
+      "name": "echoplatformcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoplatformcore-1.0.0.echo-addon",
+      "sha256": "7aa3591db5c783e657d03c5d34473f36b4cca57d93a093776d8528cafec13b92",
+      "size": 45215
+    },
+    {
+      "name": "echopowergrid-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echopowergrid-1.0.0.echo-addon",
+      "sha256": "1970ebeee8b07235cbdc167ab2e7126041f252f1e0bb644779af251369a16074",
+      "size": 7141545
+    },
+    {
+      "name": "echoprogressioncore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoprogressioncore-1.0.0.echo-addon",
+      "sha256": "8dc9d246a9d1d011917c5e031f1490f5af0ad87c02ae4c2498193241b2d5bd6f",
+      "size": 46252
+    },
+    {
+      "name": "echorecipecore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echorecipecore-1.0.0.echo-addon",
+      "sha256": "ea2efc2117bf6ce151b595ecbd290fa4f638c8927b49d49cab31277d8009a2ff",
+      "size": 38508
+    },
+    {
+      "name": "echoruntimeguard-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoruntimeguard-1.0.0.echo-addon",
+      "sha256": "a8956932374b1faf256bd0e3f41ab1a7e6ea816492869aaa4c8d1b578aafdd57",
+      "size": 121543
+    },
+    {
+      "name": "echoschemacore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoschemacore-1.0.0.echo-addon",
+      "sha256": "5f70090b39a07af9a0e8eade61a30e09b0ec170e50facac3ebf7131be2fffe68",
+      "size": 31239
+    },
+    {
+      "name": "echosoundcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echosoundcore-1.0.0.echo-addon",
+      "sha256": "4735279bf0efb9652c8e7d7bc69d5c8f7c5da4a0f11147ecf5491ba46984a9f7",
+      "size": 11080710
+    },
+    {
+      "name": "echoterminal-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echoterminal-1.0.0.echo-addon",
+      "sha256": "a44d631af66ddc5f0f25a13b2c08be7892395999a1ed7f89111d57d445385109",
+      "size": 22456021
+    },
+    {
+      "name": "echovalidationcore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echovalidationcore-1.0.0.echo-addon",
+      "sha256": "31eb4ff0bb00403d124986653ef932fa2e95759aa306c6ac5ce2b3d3719e42cd",
+      "size": 41824
+    },
+    {
+      "name": "echovehiclecore-1.0.0.echo-addon",
+      "role": "pack-file",
+      "path": "addons/echovehiclecore-1.0.0.echo-addon",
+      "sha256": "9e20ebc7b3e4d5f235b4e0e8f2ff65acf3a0c5fdb5ded21abf45e610b53fbaa6",
+      "size": 22796
     }
   ],
   "notes": [
     "Rebuilt galactic-survey-native-edition against approved module release modules-all-official-modpacks-install-fix-20260613.",
     "Manifest files contain GitHub HTTPS URLs for every module artifact used by install, repair, and update."
-  ]
+  ],
+  "moduleSourceRevision": "0beb164098526cf791cc6c649704e6a434769a17"
 }
