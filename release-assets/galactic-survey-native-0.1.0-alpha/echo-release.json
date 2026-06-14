@@ -1,0 +1,44 @@
+{
+  "formatVersion": 2,
+  "pack": "galactic-survey-native-edition",
+  "name": "Galactic Survey Native Edition",
+  "version": "0.1.0",
+  "channel": "alpha",
+  "releasedAt": "2026-06-14T00:31:04.070Z",
+  "manifestAsset": "galactic-survey-native-edition-alpha-0.1.0.pack.json",
+  "manifestSha256": "33476815f9abb2b76eccb920984c672fdbe42f9f2254c04900ba3d6262579d3d",
+  "manifestSize": 29504,
+  "artifactMode": "zip",
+  "artifactAsset": "galactic-survey-native-edition-0.1.0.zip",
+  "artifactSha256": "de492bbfed9dccbd715611adfefc4f67852ea9832df6f44306003ebf78ed9ed2",
+  "artifactSize": 5063,
+  "moduleRelease": "modules-all-official-modpacks-install-fix-20260613",
+  "packs": [
+    {
+      "pack": "galactic-survey-native-edition",
+      "name": "Galactic Survey Native Edition",
+      "version": "0.1.0",
+      "channel": "alpha",
+      "manifestAsset": "galactic-survey-native-edition-alpha-0.1.0.pack.json",
+      "artifactAsset": "galactic-survey-native-edition-0.1.0.zip"
+    }
+  ],
+  "assets": [
+    {
+      "name": "galactic-survey-native-edition-alpha-0.1.0.pack.json",
+      "role": "pack-manifest",
+      "sha256": "33476815f9abb2b76eccb920984c672fdbe42f9f2254c04900ba3d6262579d3d",
+      "size": 29504
+    },
+    {
+      "name": "galactic-survey-native-edition-0.1.0.zip",
+      "role": "pack-artifact",
+      "sha256": "de492bbfed9dccbd715611adfefc4f67852ea9832df6f44306003ebf78ed9ed2",
+      "size": 5063
+    }
+  ],
+  "notes": [
+    "Rebuilt galactic-survey-native-edition against approved module release modules-all-official-modpacks-install-fix-20260613.",
+    "Manifest files contain GitHub HTTPS URLs for every module artifact used by install, repair, and update."
+  ]
+}
