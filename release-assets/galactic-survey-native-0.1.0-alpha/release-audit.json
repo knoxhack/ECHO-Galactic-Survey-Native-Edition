@@ -12,13 +12,13 @@
   "moduleCount": 41,
   "artifact": {
     "name": "galactic-survey-native-edition-0.1.0.zip",
-    "sha256": "91c0935f7eec4b96b786dd6b8a97e10ed83cd9e43cdb72b86ecff14743b04f87",
-    "size": 145435595
+    "sha256": "93bf469746f04597b6022888441e0920969368f8ac8699681144780b9c868b17",
+    "size": 145433884
   },
   "manifest": {
     "name": "galactic-survey-native-edition-alpha-0.1.0.pack.json",
-    "sha256": "2cd59ea4fdb9315409f1b47675633ed3e75b314bf0f002c00f6ad3271c6754b1",
-    "size": 54229
+    "sha256": "d382f0b0aec6715c1cba987ce3893613daed6c231641bb202f4e4df54a2f2cfd",
+    "size": 54005
   },
-  "generatedAt": "2026-06-16T01:22:28.381Z"
+  "generatedAt": "2026-06-16T02:21:08.063Z"
 }
