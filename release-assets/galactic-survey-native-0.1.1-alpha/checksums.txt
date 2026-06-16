@@ -1,0 +1,4 @@
+d995d59f9c619d8132545f38d2ed409ef4f647076cfe9ee5f2f371b12c5d259c  echo-release.json
+fdacae5ed6a54ca010246fcbdfd197d4e7c982e4a2f48c4fda97f65083b7189b  galactic-survey-native-edition-0.1.1.zip
+c800df1a351d0291049e1015fdba18a6290c5ff386a21d42bc975d170535b414  galactic-survey-native-edition-alpha-0.1.1.pack.json
+4de1ff666fd634637a9eb02e6777d60baac47d8655b78852df12a765f582ec0f  release-audit.json
