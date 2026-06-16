@@ -4,14 +4,14 @@
   "name": "Galactic Survey Native Edition",
   "version": "0.1.0",
   "channel": "alpha",
-  "releasedAt": "2026-06-16T00:35:30.617Z",
+  "releasedAt": "2026-06-16T01:22:28.382Z",
   "manifestAsset": "galactic-survey-native-edition-alpha-0.1.0.pack.json",
-  "manifestSha256": "66bbacdcfc98a76ee70128c83f0397fa0ef00d39d1aa081e3e83261127b9ce27",
-  "manifestSize": 52578,
+  "manifestSha256": "2cd59ea4fdb9315409f1b47675633ed3e75b314bf0f002c00f6ad3271c6754b1",
+  "manifestSize": 54229,
   "artifactMode": "zip",
   "artifactAsset": "galactic-survey-native-edition-0.1.0.zip",
-  "artifactSha256": "ed15d3e8c1708e862005d5274b5c5d2de611a3dfa70f802a69e091f0646af616",
-  "artifactSize": 145350820,
+  "artifactSha256": "91c0935f7eec4b96b786dd6b8a97e10ed83cd9e43cdb72b86ecff14743b04f87",
+  "artifactSize": 145435595,
   "moduleRelease": "release-index-current-module-artifacts-20260616",
   "packs": [
     {
@@ -27,21 +27,21 @@
     {
       "name": "galactic-survey-native-edition-alpha-0.1.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "66bbacdcfc98a76ee70128c83f0397fa0ef00d39d1aa081e3e83261127b9ce27",
-      "size": 54251
+      "sha256": "2cd59ea4fdb9315409f1b47675633ed3e75b314bf0f002c00f6ad3271c6754b1",
+      "size": 54229
     },
     {
       "name": "galactic-survey-native-edition-0.1.0.zip",
       "role": "pack-artifact",
-      "sha256": "ed15d3e8c1708e862005d5274b5c5d2de611a3dfa70f802a69e091f0646af616",
-      "size": 145350820
+      "sha256": "91c0935f7eec4b96b786dd6b8a97e10ed83cd9e43cdb72b86ecff14743b04f87",
+      "size": 145435595
     },
     {
       "name": "echoadaptercore-1.0.0.echo-addon",
       "role": "pack-file",
       "path": "addons/echoadaptercore-1.0.0.echo-addon",
-      "sha256": "6419877b2fdf5c9396408c71fb2a013301884416c8d3131209b8e5a03dabde7a",
-      "size": 827788
+      "sha256": "909cc422566f138e65ad927e33775cff20f3caef963181ebd7c3716f711cfbf9",
+      "size": 841135
     },
     {
       "name": "echoassetcore-1.0.0.echo-addon",

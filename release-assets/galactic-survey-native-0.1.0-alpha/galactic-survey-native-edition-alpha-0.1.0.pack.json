@@ -19,9 +19,9 @@
       "path": "addons/echoadaptercore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "6419877b2fdf5c9396408c71fb2a013301884416c8d3131209b8e5a03dabde7a",
-      "size": 827788,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-content-graph-evidence-proof-20260615/echoadaptercore-1.0.0.echo-addon"
+      "sha256": "909cc422566f138e65ad927e33775cff20f3caef963181ebd7c3716f711cfbf9",
+      "size": 841135,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/adaptercore-receipt-spine-20260616/echoadaptercore-1.0.0.echo-addon"
     },
     {
       "id": "echoassetcore",
@@ -638,9 +638,9 @@
       "path": "addons/echoadaptercore-1.0.0.echo-addon",
       "required": true,
       "side": "both",
-      "sha256": "6419877b2fdf5c9396408c71fb2a013301884416c8d3131209b8e5a03dabde7a",
-      "size": 827788,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-content-graph-evidence-proof-20260615/echoadaptercore-1.0.0.echo-addon"
+      "sha256": "909cc422566f138e65ad927e33775cff20f3caef963181ebd7c3716f711cfbf9",
+      "size": 841135,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/adaptercore-receipt-spine-20260616/echoadaptercore-1.0.0.echo-addon"
     },
     {
       "id": "echoassetcore",
@@ -1249,12 +1249,12 @@
   "runtimeTarget": "echo_native",
   "id": "galactic-survey-native-edition",
   "artifactUrl": "https://github.com/knoxhack/ECHO-Galactic-Survey-Native-Edition/releases/download/galactic-survey-native-0.1.0-alpha/galactic-survey-native-edition-0.1.0.zip",
-  "updatedAt": "2026-06-14T00:31:04.060Z",
+  "updatedAt": "2026-06-16T01:22:20.033Z",
   "generatedBy": "scripts/rebuild-official-modpack-assets",
   "validation": "approved",
   "manifestAsset": "galactic-survey-native-edition-alpha-0.1.0.pack.json",
   "moduleRelease": "release-index-current-module-artifacts-20260616",
   "moduleSourceRevision": "ECHO-Release-Index modules/*.json current artifacts, 2026-06-16",
-  "artifactSha256": "ed15d3e8c1708e862005d5274b5c5d2de611a3dfa70f802a69e091f0646af616",
-  "artifactSize": 145350820
+  "artifactSha256": "91c0935f7eec4b96b786dd6b8a97e10ed83cd9e43cdb72b86ecff14743b04f87",
+  "artifactSize": 145435595
 }

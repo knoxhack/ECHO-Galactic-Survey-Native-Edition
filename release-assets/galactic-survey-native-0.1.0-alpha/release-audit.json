@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "echo.official_modpack.release_audit.v1",
+  "status": "rebuilt-from-current-module-catalog",
+  "pack": "galactic-survey-native-edition",
+  "name": "Galactic Survey Native Edition",
+  "version": "0.1.0",
+  "channel": "alpha",
+  "moduleRelease": "release-index-current-module-artifacts-20260616",
+  "moduleSourceRevision": "ECHO-Release-Index modules/*.json current artifacts, 2026-06-16",
+  "releaseTag": "galactic-survey-native-0.1.0-alpha",
+  "sourceRepo": "knoxhack/ECHO-Galactic-Survey-Native-Edition",
+  "moduleCount": 41,
+  "artifact": {
+    "name": "galactic-survey-native-edition-0.1.0.zip",
+    "sha256": "91c0935f7eec4b96b786dd6b8a97e10ed83cd9e43cdb72b86ecff14743b04f87",
+    "size": 145435595
+  },
+  "manifest": {
+    "name": "galactic-survey-native-edition-alpha-0.1.0.pack.json",
+    "sha256": "2cd59ea4fdb9315409f1b47675633ed3e75b314bf0f002c00f6ad3271c6754b1",
+    "size": 54229
+  },
+  "generatedAt": "2026-06-16T01:22:28.381Z"
+}
